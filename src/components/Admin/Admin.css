@@ -1,0 +1,38 @@
+/* Admin.css */
+
+.admin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: auto;
+    background-color: #f3f3f3;
+  }
+  
+  .admin-container h1 {
+    color: #444;
+    margin-bottom: 16px;
+    font-size: 24px;
+  }
+  
+  .admin-container p {
+    margin: 8px 0;
+    color: #666;
+    font-size: 18px;
+  }
+  
+  .admin-container p strong {
+    color: #222;
+  }
+  
+  .admin-container p span {
+    color: #ff6600;
+    font-weight: bold;
+  }
+  
